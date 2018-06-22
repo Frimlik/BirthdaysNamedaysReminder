@@ -1,9 +1,0 @@
-C:\Users\Jirka\Documents\Visual Studio 2017\Projects\BirthdaysNamedaysTrayApp\BirthdaysNamedaysTrayApp\bin\Debug\BirthdaysNamedaysTrayApp.exe.config
-C:\Users\Jirka\Documents\Visual Studio 2017\Projects\BirthdaysNamedaysTrayApp\BirthdaysNamedaysTrayApp\bin\Debug\BirthdaysNamedaysTrayApp.exe
-C:\Users\Jirka\Documents\Visual Studio 2017\Projects\BirthdaysNamedaysTrayApp\BirthdaysNamedaysTrayApp\bin\Debug\BirthdaysNamedaysTrayApp.pdb
-C:\Users\Jirka\Documents\Visual Studio 2017\Projects\BirthdaysNamedaysTrayApp\BirthdaysNamedaysTrayApp\obj\Debug\BirthdaysNamedaysTrayApp.Properties.Resources.resources
-C:\Users\Jirka\Documents\Visual Studio 2017\Projects\BirthdaysNamedaysTrayApp\BirthdaysNamedaysTrayApp\obj\Debug\BirthdaysNamedaysTrayApp.csproj.GenerateResource.Cache
-C:\Users\Jirka\Documents\Visual Studio 2017\Projects\BirthdaysNamedaysTrayApp\BirthdaysNamedaysTrayApp\obj\Debug\BirthdaysNamedaysTrayApp.csproj.CoreCompileInputs.cache
-C:\Users\Jirka\Documents\Visual Studio 2017\Projects\BirthdaysNamedaysTrayApp\BirthdaysNamedaysTrayApp\obj\Debug\BirthdaysNamedaysTrayApp.exe
-C:\Users\Jirka\Documents\Visual Studio 2017\Projects\BirthdaysNamedaysTrayApp\BirthdaysNamedaysTrayApp\obj\Debug\BirthdaysNamedaysTrayApp.pdb
-C:\Users\Jirka\Documents\Visual Studio 2017\Projects\BirthdaysNamedaysTrayApp\BirthdaysNamedaysTrayApp\obj\Debug\BirthdaysNamedaysTrayApp.csprojResolveAssemblyReference.cache
